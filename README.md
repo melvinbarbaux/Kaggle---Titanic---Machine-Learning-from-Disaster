@@ -1,5 +1,5 @@
 # Titanic: Machine Learning from Disaster
-This is my first attempt at a Kaggle competition
+This is my first attempt at a [Kaggle competition](https://www.kaggle.com/melvinbarbaux/competitions) 
 The dataset is available at the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic).
 
 
@@ -8,8 +8,7 @@ The dataset is available at the [Kaggle Titanic competition](https://www.kaggle.
 - `pandas`
 - `lightgbm`
 - `xgboost`
-- `numpy`
-- `scikit-learn`
+- `matplotlib`
 
 
 ## Results
